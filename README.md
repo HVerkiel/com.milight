@@ -21,6 +21,12 @@ Mi•Light devices are also known as:
 - Kreuzer
 
 ### Changelog
+v3.2.3
+- Added missing Flow cards
+>- Enable white mode for iBox and 8-Zone Controller
+>- Enable effect mode and enable specific effect mode for 8-Zone Controller
+>- Enable night mode for White Zone and 8-Zone Controller
+
 v3.2.2
 - Minor crash preventive fixes
 
